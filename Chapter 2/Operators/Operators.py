@@ -14,8 +14,6 @@ abSubtract= a - b
 alessthan= a > b
 print(abDivide, abProduct, abSum, abSubtract)
 conditonal = (alessthan) and (a % 2 != 0)
-print (2 != 3)
-print (not 2 == 3)
 print(conditonal)
 # tests
 print(abs(abSubtract))
