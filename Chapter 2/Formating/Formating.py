@@ -1,0 +1,7 @@
+print(format(12345.45679, '.2f'))
+print('{:.5f}'.format(12.999999))
+print('{:.3e}'.format(.000123456789))
+print('{:,}'.format(9876543210))
+print('{:.1%}'.format(0.789))
+print('{:>20}'.format(12345))
+print('{:d}'.format(6789))
