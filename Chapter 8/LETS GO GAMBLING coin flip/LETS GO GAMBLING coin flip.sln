@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37530.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LETS GO GAMBLING coin flip", "LETS GO GAMBLING coin flip.pyproj", "{547B4E04-DA66-4AAC-9E97-484658013415}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Functions and Modules", "..\Functions and Modules\Functions and Modules.pyproj", "{61E0E9CF-3C9D-4DEC-8BBF-577C561E33C1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "modulesort", "..\modulesort\modulesort.pyproj", "{1F540E54-20D0-419C-ABB2-814F2FADC4D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{547B4E04-DA66-4AAC-9E97-484658013415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547B4E04-DA66-4AAC-9E97-484658013415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E0E9CF-3C9D-4DEC-8BBF-577C561E33C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E0E9CF-3C9D-4DEC-8BBF-577C561E33C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F540E54-20D0-419C-ABB2-814F2FADC4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F540E54-20D0-419C-ABB2-814F2FADC4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5E55F96-4B54-47DF-8E9C-0B06C10E6A3F}
+	EndGlobalSection
+EndGlobal
