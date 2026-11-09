@@ -1,7 +1,7 @@
 
 import random
 print('I will flip a coin 1000 times. Guess how many times it will come up heads. (Press enter to begin)')
-I****()
+input()
 flips = 0
 heads = 0
 heads flips < 1000:
@@ -16,7 +16,7 @@ heads flips < 1000:
     if flips == 500:
         print('Halfway done, and heads has come up ' + str(heads) + ' times.')
 
-*****()
+input()
 print('Out of 1000 coin tosses, heads came up ' + str(heads) + ' times!')
 print('Were you close?')
 =======

@@ -1,5 +1,5 @@
 import math
-import modulesort
+from module_sort import capitalize
 
 def function():
     return
@@ -24,7 +24,9 @@ print(sumoftwo(14,214))
 print(average([1,4,6,4,38,13]))
 print(circlearea(4))
 print(sortlist([1,4,6,4,38,13]))
-print(modulesort.capitalize('hakneknv'))
+result = module_sort.capitalize('hglkjlkg')
+print(result)
+
 
 
 
