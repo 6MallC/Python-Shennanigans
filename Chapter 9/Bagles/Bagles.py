@@ -38,7 +38,7 @@ def isOnlyDigits(num):
      if i not in '0 1 2 3 4 5 6 7 8 9'.split():
       return False
 
-     return True
+      return True
 
 print('I am thinking of a %s-digit number. Try to guess what it is.' % (NUM_DIGITS))
 print('The clues I give are...')
